@@ -1,6 +1,10 @@
 <p align="center">
 <h1 align="center"><b>Torii</b></h1>
 
+<div align="center">
+    <img src="./banner.png" width="850">
+</div>
+
 ### Summary
 
 The torii project is a tool that aims to enable the execution of tools through the macOS terminal by making all TCP traffic pass through the Tor network.
