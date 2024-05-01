@@ -43,7 +43,7 @@ Feel free to contribute to the project, especially for any aspect that you notic
 
 ### Acknowledgements
 
-Thanks [nipe](https://github.com/htrgouvea/nipe). The project served as motivation.
+Thanks [nipe](https://github.com/htrgouvea/nipe). The project served as motivation to this project.
 
 ---
 
