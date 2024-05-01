@@ -41,6 +41,12 @@ Feel free to contribute to the project, especially for any aspect that you notic
 
 ---
 
+### Acknowledgements
+
+Thanks [nipe](https://github.com/htrgouvea/nipe). The project served as motivation.
+
+---
+
 ### License
 
 This work is licensed under [MIT License.](/LICENSE.md)
