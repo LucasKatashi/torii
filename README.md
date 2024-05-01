@@ -1,5 +1,5 @@
 <p align="center">
-<h1 align="center"><b>Torii</b></h1>
+<h1 align="center"><b>torii</b></h1>
 
 <div align="center">
     <img src="./banner.png">
