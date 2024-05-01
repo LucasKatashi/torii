@@ -2,7 +2,7 @@
 <h1 align="center"><b>Torii</b></h1>
 
 <div align="center">
-    <img src="./banner.png" width="850">
+    <img src="./banner.png">
 </div>
 
 ### Summary
