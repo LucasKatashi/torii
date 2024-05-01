@@ -31,6 +31,12 @@ options:
 
 ---
 
+### Contribution
+
+Feel free to contribute to the project, especially for any aspect that you notice that breaks the privacy logic of the tool. For example, the possibility of running tools that cannot be passed through the Tor network.
+
+---
+
 ### License
 
 This work is licensed under [MIT License.](/LICENSE.md)
