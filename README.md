@@ -7,9 +7,9 @@
 
 ### Summary
 
-The torii project is a tool that aims to enable the execution of tools through the macOS terminal by making all TCP traffic pass through the Tor network.
+The torii project is a tool that aims to enable the execution of tools through the macOS terminal by making all TCP traffic pass through the Tor network. Tools that use UDP connection are blocked (ideally).
 
-Tools that use UDP connection are blocked (ideally).
+While the tool can function in Linux environments, it may not offer the optimal experience. For Linux distributions, I highly recommend using [nipe](https://github.com/htrgouvea/nipe). Torii, on the other hand, serves as a convenient alternative tailored specifically for macOS.
 
 ### Instalation
 
