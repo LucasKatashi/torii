@@ -20,10 +20,6 @@ While the tool can function in Linux environments, it may not offer the optimal 
 - `python3 -m pip install -r requirements.txt && chmod +x torii.py`
 - `./torii.py`
 
-<div align="center">
-    <img src="./demo.gif">
-</div>
-
 ---
 
 ### Usage
