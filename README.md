@@ -9,8 +9,6 @@
 
 The torii project is a tool that aims to enable the execution of tools through the macOS terminal by making all TCP traffic pass through the Tor network and UDP through proxychains.
 
-Whenever launched, the tool automatically checks for the presence of necessary tools/dependencies. If they are not installed, Torii does the work for you, installing and configuring the files automatically!
-
 While the tool can run in Linux environments, it may not offer the optimal experience. For Linux distributions, I highly recommend using [nipe](https://github.com/htrgouvea/nipe). Torii, on the other hand, serves as a convenient alternative tailored specifically for macOS.
 
 ---
@@ -20,8 +18,6 @@ While the tool can run in Linux environments, it may not offer the optimal exper
 - `git clone https://github.com/LucasKatashi/torii && cd torii`
 - `python3 -m pip install -r requirements.txt && chmod +x torii.py`
 - `./torii.py`
-
-[![asciicast](https://asciinema.org/a/xqoZdnzsjXVfFTJBC5nbFXRpf.svg)](https://asciinema.org/a/xqoZdnzsjXVfFTJBC5nbFXRpf)
 
 ---
 
@@ -37,6 +33,10 @@ options:
   -p, --proxy           Specify the value of the port on which the Tor proxy
                         service is running.
 ```
+
+Whenever launched, the tool automatically checks for the presence of necessary tools/dependencies. If they are not installed, Torii does the work for you, installing and configuring the files automatically!
+
+[![asciicast](https://asciinema.org/a/xqoZdnzsjXVfFTJBC5nbFXRpf.svg)](https://asciinema.org/a/xqoZdnzsjXVfFTJBC5nbFXRpf)
 
 ---
 
