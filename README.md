@@ -15,7 +15,7 @@ While the tool can function in Linux environments, it may not offer the optimal 
 
 ### Instalation
 
-- `git clone https://github.com/LucasKatashi/torii && brew install tor`
+- `git clone https://github.com/LucasKatashi/torii`
 - `cd torii`
 - `python3 -m pip install -r requirements.txt && chmod +x torii.py`
 - `./torii.py`
