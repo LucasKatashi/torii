@@ -9,7 +9,9 @@
 
 The torii project is a tool that aims to enable the execution of tools through the macOS terminal by making all TCP traffic pass through the Tor network and UDP through proxychains.
 
-While the tool can function in Linux environments, it may not offer the optimal experience. For Linux distributions, I highly recommend using [nipe](https://github.com/htrgouvea/nipe). Torii, on the other hand, serves as a convenient alternative tailored specifically for macOS.
+Whenever launched, the tool automatically checks for the presence of necessary tools/dependencies. If they are not installed, Torii does the work for you, installing and configuring the files automatically!
+
+While the tool can run in Linux environments, it may not offer the optimal experience. For Linux distributions, I highly recommend using [nipe](https://github.com/htrgouvea/nipe). Torii, on the other hand, serves as a convenient alternative tailored specifically for macOS.
 
 ---
 
