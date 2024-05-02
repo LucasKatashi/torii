@@ -14,7 +14,7 @@ def banner():
           ,  | `.
     --- --+-<#>-+- ---  --  -
           `._|_,'
-             T                   torii v0.1
+             T                   torii v0.2
              |                   by katashi
              ! 
              :         . : 
