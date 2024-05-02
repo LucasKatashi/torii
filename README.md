@@ -20,7 +20,7 @@ While the tool can function in Linux environments, it may not offer the optimal 
 - `python3 -m pip install -r requirements.txt && chmod +x torii.py`
 - `./torii.py`
 
-[![asciicast](https://asciinema.org/a/8SCd5B4TmfSYvk8xsPcKFairV.svg)](https://asciinema.org/a/8SCd5B4TmfSYvk8xsPcKFairV)
+[![asciicast](https://asciinema.org/a/xqoZdnzsjXVfFTJBC5nbFXRpf.svg)](https://asciinema.org/a/xqoZdnzsjXVfFTJBC5nbFXRpf)
 
 ---
 
