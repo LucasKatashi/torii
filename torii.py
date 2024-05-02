@@ -3,12 +3,18 @@ from argparse import ArgumentParser
 from rich.console import Console
 from src.core.check_port import check_port
 from src.core.start_tor import start_tor
+from src.core.tools_checker import tools_checker
 from src.core.console import start_console
 from src.ui.banner import banner
 
 console = Console()
 
 def main():
+  checker = tools_checker()
+
+  if checker == False:
+    exit(1)
+
   port = check_port(args.proxy)
 
   if port == False:
